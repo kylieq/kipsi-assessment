@@ -1,0 +1,85 @@
+[{
+    "expense_id": 101,
+    "project_id": 123,
+    "project_name": "Project v1",
+    "amount": 700,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 102,
+    "project_id": 123,
+    "project_name": "Project v1",
+    "amount": 300,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+},{
+    "expense_id": 103,
+    "project_id": 123,
+    "project_name": "Project v1",
+    "amount": 200,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 201,
+    "project_id": 234,
+    "project_name": "Project v2",
+    "amount": 1800,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 202,
+    "project_id": 234,
+    "project_name": "Project v2",
+    "amount": 1200,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 301,
+    "project_id": 345,
+    "project_name": "Project v3",
+    "amount": 100,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 302,
+    "project_id": 345,
+    "project_name": "Project v3",
+    "amount": 700,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 303,
+    "project_id": 345,
+    "project_name": "Project v3",
+    "amount": 300,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 304,
+    "project_id": 345,
+    "project_name": "Project v3",
+    "amount": 400,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 501,
+    "project_id": 512,
+    "project_name": "Project v5.1",
+    "amount": 1205,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 502,
+    "project_id": 523,
+    "project_name": "Project v5.2",
+    "amount": 1405,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}, {
+    "expense_id": 503,
+    "project_id": 534,
+    "project_name": "Project v5.3",
+    "amount": 1505,
+    "is_qualified": true,
+    "timestamp":  "2022-1-10T3:33:05.673"
+}]
